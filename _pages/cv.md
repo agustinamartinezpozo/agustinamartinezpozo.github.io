@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here]()
+You can find my CV [here](https://www.dropbox.com/s/28nb0piirvsxnin/CV_AAM.pdf?dl=0)
 
 Education
 ======
@@ -35,21 +35,17 @@ Honors and Scholarships
 * Pre-doctoral research training scholarship (PIPF), Universidad Carlos III de Madrid, 2019. 
 * Master Scholarship, Universidad Carlos III de Madrid, 2017-2018. 
 * Scientific Vocations Scholarship, Consejo Interuniversitario Nacional, Argentina, 2015.
-* Vice Dean's congratulation letter for excellent teaching, Universidad Carlos III de Madrid, 2018-2021. 
+* Vice Dean's congratulation letter for excellence in teaching, Universidad Carlos III de Madrid, 2018-2021. 
 * Silver Medal (Second GPA), Economic Sciences Faculty, Universidad Nacional de Tucumán, Argentina, 2015. 
 
 Skills
 ======
-* Computer programming:
-  * Python
-  * Stata
-  * Matlab
-  * Latex
+* Computer programming: Python, Stata, Matlab, Latex.
 * Languages:
   * Spanish (native)
   * English (fluent)
 
 Service
 ======
-* Volunteer and Treasurer, Fundación Payasos Sociales, Tucumán. 2014-2017.
+* Volunteer and Treasurer, Social Clowns Foundation, Tucumán, Argentina. 2014-2017.
 * Volunteer Red Cross Spain, 2021. 

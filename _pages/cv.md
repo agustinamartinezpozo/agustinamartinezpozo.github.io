@@ -13,9 +13,9 @@ You can find my CV [here]()
 
 Education
 ======
-* Ph.D. in Economics, Universidad Carlos III de Madrid, 2023 (expected)
-* M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2019
-* B.S. in Economics, Universidad Nacional de Tucumán, 2016
+* Ph.D. in Economics, Universidad Carlos III de Madrid, 2023 (expected).
+* M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2019.
+* B.S. in Economics, Universidad Nacional de Tucumán, 2016.
 
 Working papers 
 ======
@@ -31,17 +31,25 @@ Teaching
   
 Honors and Scholarships
 ======
-* Currently signed in to 43 different slack teams
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* FPI Scholarship, State Research Agency, Spain, 2020.
+* Pre-doctoral research training scholarship (PIPF), Universidad Carlos III de Madrid, 2019. 
+* Master Scholarship, Universidad Carlos III de Madrid, 2017-2018. 
+* Scientific Vocations Scholarship, Consejo Interuniversitario Nacional, Argentina, 2015.
+* Vice Dean's congratulation letter for excellent teaching, Universidad Carlos III de Madrid, 2018-2021. 
+* Silver Medal (Second GPA), Economic Sciences Faculty, Universidad Nacional de Tucumán, Argentina, 2015. 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer programming:
+  * Python
+  * Stata
+  * Matlab
+  * Latex
+* Languages:
+  * Spanish (native)
+  * English (fluent)
+
+Service
+======
+* Volunteer and Treasurer, Fundación Payasos Sociales, Tucumán. 2014-2017.
+* Volunteer Red Cross Spain, 2021. 

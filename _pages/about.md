@@ -9,5 +9,16 @@ redirect_from:
 ---
 
 
-Welcome to my webpage!
-I am a PhD Candidate at [Universidad Carlos III de Madrid](http://economics.uc3m.es/).
+Welcome to my webpage! 
+
+I am a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid](http://economics.uc3m.es/).
+
+My research interests include economics of networks, media economics, political economy, and applied microeconometric. 
+
+
+
+Contact details 
+===
+Email address: am@eco.uc3m.es
+Office: Universidad Carlos III de Madrid, Calle Madrid 126, Getafe. Office 15.1.04. 
+

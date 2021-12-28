@@ -19,8 +19,10 @@ My research interests include economics of networks, media economics, political 
 
 
 
-Contact details 
-===
+
+
+Contact details
+---
 
 
 Email address: am@eco.uc3m.es

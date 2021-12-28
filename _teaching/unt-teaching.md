@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Universidad Nacional de Tucumán - Teaching Experience"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1

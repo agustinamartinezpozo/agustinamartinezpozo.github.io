@@ -8,8 +8,7 @@ date:
 location: "Madrid, Spain"
 ---
 
-Since the beginning of the Ph.D. track at Universidad Carlos III de Madrid, I have been a Teaching Assistant. I taught several courses for different education levels, including Ph.D. and Bachelor courses. 
-
+Since the beginning of the Ph.D. track at Universidad Carlos III de Madrid, I have been a Teaching Assistant. I taught several courses for different education levels, including Ph.D. and Bachelor courses. Ph.D. courses were taught in English, while Bachelor's courses were taught in English and Spanish.
 
 Ph.D. level
 ======

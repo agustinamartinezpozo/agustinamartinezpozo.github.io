@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad Nacional de Tucumán"
-date: "2016-08-01"
+date: 2016-01-01
 location: "Tucumán, Argentina"
 ---
 

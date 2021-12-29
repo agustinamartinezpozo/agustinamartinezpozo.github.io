@@ -2,7 +2,7 @@
 title: "Universidad Carlos III de Madrid - Teaching experience"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/uc3m-teaching
 venue: "Universidad Carlos III de Madrid"
 date: 2018-01-01
 location: "Madrid, Spain"

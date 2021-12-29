@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 
-Welcome to my webpage!!
+
+Welcome to my webpage!
 ===
+
 
 I am a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
 
 My research interests include economics of networks, media economics, political economy, and applied microeconometrics. 
-
-
-
 
 
 

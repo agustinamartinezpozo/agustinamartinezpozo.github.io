@@ -2,7 +2,7 @@
 title: "Universidad Nacional de Tucumán - Teaching Experience"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/unt-teaching
 venue: "Universidad Nacional de Tucumán"
 date: 2013-01-01
 location: "Tucumán, Argentina"

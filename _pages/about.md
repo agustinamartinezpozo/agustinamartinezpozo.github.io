@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Welcome to my webpage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-Welcome to my webpage!
-======
 
 I am a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
 

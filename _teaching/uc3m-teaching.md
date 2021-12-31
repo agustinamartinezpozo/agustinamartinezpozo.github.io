@@ -21,3 +21,10 @@ Bachelor level
 * Microeconomics, 2019, 2021.
 * Applied economics, 2018-2019.
 * Labor economics, 2018.
+
+
+
+*Awarded for excellence in teaching:*
+[*2018 - 1º semester*](https://a-a-martinez.github.io/files/2018_1.pdf), [*2018 - 2º semester*](https://a-a-martinez.github.io/files/2018_2.pdf), 
+[*2019 - 1º semester*](https://a-a-martinez.github.io/files/2019_1.pdf), [*2019 - 2º semester*](https://a-a-martinez.github.io/files/2019_2.pdf), 
+[*2020 - 1º semester*](https://a-a-martinez.github.io/files/2020_1.pdf), [*2020 - 2º semester*](https://a-a-martinez.github.io/files/2020_2.pdf).

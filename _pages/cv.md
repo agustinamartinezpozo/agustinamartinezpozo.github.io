@@ -39,11 +39,11 @@ You can find my full CV [here](https://a-a-martinez.github.io/files/CV_AAM.pdf).
   
 ## Honors and Scholarships
 * Pre-doctoral Scholarships:
-    * FPI Scholarship, State Research Agency, Spain, 2020 - present.
-    * PIPF Scholarship, Universidad Carlos III de Madrid, 2019 -2020. 
+    * FPI Scholarship, State Research Agency, Spain, 2020-present.
+    * PIPF Scholarship, Universidad Carlos III de Madrid, 2019-2020. 
     * Master Scholarship, Universidad Carlos III de Madrid, 2017-2018. 
 * Scientific Vocations Scholarship, Consejo Interuniversitario Nacional, Argentina, 2015.
-* Silver Medal (Second GPA), Universidad Nacional de Tucumán, Argentina, 2015. 
+* Silver Medal (Second GPA), Universidad Nacional de Tucumán, Argentina, 2015.
 
 ## Skills
 * Computer programming: Python, Stata, Matlab, Latex.

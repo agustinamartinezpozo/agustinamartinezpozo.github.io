@@ -125,7 +125,7 @@ include:
   - files
 exclude:
   - assets
-  "*.sublime-project"
+  - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle

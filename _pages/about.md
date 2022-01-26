@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Welcome to my webpage!"
 excerpt: "About me"
 author_profile: true
@@ -16,7 +16,7 @@ My research interests include economics of networks, media economics, political 
 
 
 
-##### Contact details
+## Contact details
 
 
 

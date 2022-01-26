@@ -16,12 +16,16 @@ My research interests include economics of networks, media economics, political 
 
 
 
-## Contact details
 
 
 
-Email address: <a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>
 
 
-Office: Universidad Carlos III de Madrid, room 15.1.04. Calle Madrid 126, Getafe, Madrid, Spain. 
+**Contact details:**
+
+
+
+   Email address: *<a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>*
+   
+   Office: *Universidad Carlos III de Madrid, room 15.1.04. Calle Madrid 126, Getafe, Madrid, Spain.*
 

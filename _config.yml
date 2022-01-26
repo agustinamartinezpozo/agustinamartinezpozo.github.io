@@ -314,4 +314,5 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-tactile
+remote_theme : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum"

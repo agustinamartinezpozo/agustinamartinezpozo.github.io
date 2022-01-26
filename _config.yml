@@ -6,9 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum", "sunris
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Alejandra Agustina Martínez"
@@ -317,3 +314,5 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-tactile
+remote_theme : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum", "sunris

@@ -6,6 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
+remote_theme : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum", "sunris
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Alejandra Agustina Martínez"
@@ -124,7 +127,8 @@ include:
   - _pages
   - files
 exclude:
-  - "*.sublime-project"
+  - assets
+  "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle

@@ -315,4 +315,4 @@ compress_html:
 
 theme: jekyll-theme-tactile
 remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum", "sunris
+minimal_mistakes_skin : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "dark", "plum"

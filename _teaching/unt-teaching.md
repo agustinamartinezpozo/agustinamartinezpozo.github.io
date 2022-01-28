@@ -1,11 +1,10 @@
 ---
-title: "Universidad Nacional de Tucumán - Teaching Experience"
+title: "Universidad Nacional de Tucumán"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/unt-teaching
-venue: "Universidad Nacional de Tucumán"
+venue: "Tucumán, Argentina"
 date: 2013-01-01
-location: "Tucumán, Argentina"
 ---
 
 I had my first teaching experience at Universidad Nacional de Tucumán while studying for my Bachelor's.

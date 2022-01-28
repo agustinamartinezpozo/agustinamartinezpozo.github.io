@@ -3,7 +3,7 @@ title: "Universidad Nacional de Tucumán"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/unt-teaching
-venue: "Tucumán, Argentina"
+venue: "Argentina"
 date: 2013-01-01
 ---
 

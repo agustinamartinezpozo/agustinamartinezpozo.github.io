@@ -1,10 +1,10 @@
 ---
 title: "Universidad Carlos III de Madrid"
 collection: teaching
-type: 
+type: Teaching Assistant
 permalink: /teaching/uc3m-teaching/
 venue: 
-date: 
+date: 2018-01-01
 location:
 ---
 

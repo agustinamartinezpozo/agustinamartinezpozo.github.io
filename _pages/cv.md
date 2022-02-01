@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -21,21 +19,6 @@ You can find my full CV [here](https://a-a-martinez.github.io/files/CV_AAM.pdf).
 * Ph.D. in Economics, Universidad Carlos III de Madrid, 2023 (expected).
 * M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2019.
 * B.S. in Economics, Universidad Nacional de Tucumán, 2016.
-  
-## Teaching
-* Teaching Assistant:
-    * Ph.D. and Bachelor, Universidad Carlos III de Madrid, 2018-2021.
-    * Bachelor, Universidad Nacional de Tucumán, 2013-2017. 
-  
-## Research
-
-### Working papers 
-* Social networks and political activism (2022).
-* Raise your voice? Expressing opinions through social media (2022).
-* The long memory of poverty: the Historical Unsatisfied Basic Needs, with E. Nicolini (2017). 
-
-### Work in progress 
-* Online feminism: a case of study of the hashtag #NiUnaMenos in Argentina, with D. Carvajal.
   
 ## Honors and Scholarships
 * Pre-doctoral Scholarships:

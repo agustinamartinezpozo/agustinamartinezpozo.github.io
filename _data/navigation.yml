@@ -2,6 +2,10 @@
 main:
   - title: "Research"
     url: /research/  
+    
+  - title: "Researtruch"
+    url: /research2/ 
+    
 
   - title: "Teaching"
     url: /teaching/    

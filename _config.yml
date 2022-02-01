@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Alejandra Agustina Martínez"
   avatar           : "AAM_picture.jpg"
-  bio              : "Ph.D. Candidate in Economics at Universidad Carlos III de Madrid"
+  bio              : "Ph.D. Candidate in Economics at UC3M"
   location         : "Madrid - Spain"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : https://scholar.google.es/citations?user=e4log-sAAAAJ&hl=es
   email            :
   researchgate     : 
   uri              :

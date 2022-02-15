@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
 
-My research interests include economics of networks, media economics, political economy, and applied microeconometrics. 
+My research interests include economics of networks, media economics, applied microeconometrics, behavioral economics, and political economy. 
 
 
 

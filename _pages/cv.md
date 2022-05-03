@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can find my full CV [here](https://a-a-martinez.github.io/files/CV_AAM.pdf). 
+You can find my full CV [here](https://martinez-aa.github.io/files/CV_AAM.pdf). 
 
 
 

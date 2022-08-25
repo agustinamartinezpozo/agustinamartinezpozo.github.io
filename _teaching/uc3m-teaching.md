@@ -23,7 +23,7 @@ I have been a Teaching Assistant since I started the Ph.D. program at Universida
 
 
 
-*AAwarded for excellence in teaching across all academic years!*
+*Awarded for excellence in teaching across all academic years!*
 [*2018 - 1º semester*](https://alejandraagustinamartinez.github.io/files/2018_1.pdf),
 [*2018 - 2º semester*](https://alejandraagustinamartinez.github.io/files/2018_2.pdf),
 [*2019 - 1º semester*](https://alejandraagustinamartinez.github.io/files/2019_1.pdf),

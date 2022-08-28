@@ -7,14 +7,11 @@ venue: "Spain"
 date: 2018-01-01
 ---
 
-
-I have been a Teaching Assistant since I started the Ph.D. program at Universidad Carlos III de Madrid. My teaching experience includes a variety of courses at both the Ph.D. and Bachelor's levels. Ph.D. courses were taught in English, while Bachelor's courses were taught in English and Spanish.
+I have been a Teaching Assistant since I started the Ph.D. program at Universidad Carlos III de Madrid. My teaching experience includes a variety of courses at both the Ph.D. and Bachelor’s levels. Ph.D. courses were taught in English, while Bachelor’s lessons were conducted in English and Spanish.
 
 **Ph.D. courses**
 * Microeconomics II (Game Theory), 2020. 
 * Econometrics III (Microeconometrics), 2019-2021.
-
-
 
 **Bachelor's courses**
 * Microeconomics, 2019, 2021.

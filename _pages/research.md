@@ -8,11 +8,12 @@ author_profile: true
 
 
 ## Working papers 
-* Social networks and political activism (2022).
-* Raise your voice? Expressing opinions through social media (2022).
-* The long memory of poverty: the Historical Unsatisfied Basic Needs, with E. Nicolini (2017). 
+* Raise your voice! Activism and peer effects in online social networks (2022).
+* The long memory of poverty: the Historical Unsatisfied Basic Needs, with E. Nicolini (2017).
+
 
 ## Work in progress 
-* Online feminism: a case of study of the hashtag #NiUnaMenos in Argentina, with D. Carvajal.
-  
+* The effects of social movements: evidence from #NiUnaMenos.
+* (In)activism in social networks.
+* Hate speech in social media: evidence from the last Brazilian election, with D. Marino Fages. 
 

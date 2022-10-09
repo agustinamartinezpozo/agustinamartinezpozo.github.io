@@ -7,7 +7,9 @@ author_profile: false
 
 {% include base_path %}
 
-## Universidad Carlos III de Madrid
+
+ ## ```diff @@Universidad Carlos III de Madrid@@ ```
+
 
 * **Ph.D. courses, TA.**
    * Microeconomics II (Game Theory), 2020. 

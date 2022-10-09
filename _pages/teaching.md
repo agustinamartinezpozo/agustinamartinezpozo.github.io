@@ -8,19 +8,19 @@ author_profile: false
 {% include base_path %}
 
 
- ## ```diff @@Universidad Carlos III de Madrid@@ ```
+ ## Universidad Carlos III de Madrid `#008b8b`
 
 
-* **Ph.D. courses, TA.**
-   * Microeconomics II (Game Theory), 2020. 
+* ***Ph.D. courses, TA.***
+   * Microeconomics II (Game Theory), 2020. `#008b8b`
    * Econometrics III (Microeconometrics), 2019-2021.
 
-* **Bachelor's courses, TA.**
+* ***Bachelor's courses, TA.***
    * Microeconomics, 2019, 2021.
    * Applied economics, 2018-2019.
    * Labor economics, 2018.
   
-### *Awarded for excellence in teaching across all academic years!*
+#### *Awarded for excellence in teaching across all academic years!*
   [*2018 - 1º*](https://alejandraagustinamartinez.github.io/files/2018_1.pdf),
   [*2018 - 2º*](https://alejandraagustinamartinez.github.io/files/2018_2.pdf),
   [*2019 - 1º*](https://alejandraagustinamartinez.github.io/files/2019_1.pdf),
@@ -31,9 +31,11 @@ author_profile: false
 
 
 
+
+
 ## Universidad Nacional de Tucumán
 
-* **Bachelor's courses, TA.**
+* ***Bachelor's courses, TA.***
    * Economic Problems of Latin America, 2015-2017.
    * Mathematical Analysis, 2013-2014.
 

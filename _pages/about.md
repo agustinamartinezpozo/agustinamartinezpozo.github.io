@@ -9,19 +9,20 @@ redirect_from:
 ---
 
 
+I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
 
-I am a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
+I am an applied microeconomist whose research interests lie in political economy, the economics of networks, and media economics. 
 
-My research interests include economics of networks, media economics, applied microeconometrics, behavioral economics, and political economy. 
+My research focuses on understanding the *social drivers of individual behavior*, especially in the political and public spheres.
+
+To accomplish this, I usually combine theory with data analysis. Sometimes, this data comes from non-traditional sources, such as social media. 
+
+I will participate in the **2022-23 Job Market**.
+
+<br>
 
 
-
-
-
-
-
-
-**Contact details:**
+***Contact details:***
 
 
 

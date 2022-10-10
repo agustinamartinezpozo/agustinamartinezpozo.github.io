@@ -25,7 +25,7 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     padding-right: 0;
   }
 
@@ -41,11 +41,11 @@
   p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
-    line-height: 1.5;
+    line-height: 2;
   }
 
   img {
-    width: 100%;
+    width: 130%;
   }
 }
 
@@ -72,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 617px;
-  height: 934px;
+  width: 309px;
+  height: 467px;
 
   @include breakpoint($large) {
     display: block;
@@ -101,7 +101,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 130%;
     padding-left: 0;
     padding-right: 0;
   }

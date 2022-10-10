@@ -13,9 +13,7 @@ I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madr
 
 I am an applied microeconomist whose research interests lie in political economy, the economics of networks, and media economics. 
 
-My research focuses on understanding the *social drivers of individual behavior*, especially in the political and public spheres.
-
-To accomplish this, I usually combine theory with data analysis. Sometimes, this data comes from non-traditional sources, such as social media. 
+My research focuses on understanding the *social drivers of individual behavior*, especially in the political and public spheres. To accomplish this, I usually combine theory with data analysis. Sometimes, this data comes from non-traditional sources, such as social media. 
 
 I will participate in the **2022-23 Job Market**.
 

@@ -13,18 +13,15 @@ I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madr
 
 I am an applied microeconomist whose research interests lie in political economy, the economics of networks, and media economics. 
 
-My research focuses on understanding the *social drivers of individual behavior*, especially in the political and public spheres. To accomplish this, I usually combine theory with data analysis. Sometimes, this data comes from non-traditional sources, such as social media. 
+My research focuses on understanding *the social drivers of individual behavior*, especially in the political and public spheres. To accomplish this, I combine theoretical and empirical analysis. Most of my research projects utilize data from non-traditional sources, such as social media.
 
 I will participate in the **2022-23 Job Market**.
 
 <br>
 
 
-***Contact details:***
-
-
-
-   Email address: *<a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>*
-   
-   Office: *Universidad Carlos III de Madrid, room 15.1.04. Calle Madrid 126, Getafe, Madrid, Spain.*
-
+***Contact details:*** <br>
+*<a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>*
+<address>
+ Universidad Carlos III de Madrid, room 15.1.04. <br /> Calle Madrid 126, Getafe (28903). <br /> Madrid, Spain.
+</address>

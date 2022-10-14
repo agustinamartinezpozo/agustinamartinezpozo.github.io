@@ -70,9 +70,9 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  //display: table-cell;
   vertical-align: top;
-  width: 20px;
+  width: 200px;
   height: 250px;
 
   @include breakpoint($large) {

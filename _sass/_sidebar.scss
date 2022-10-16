@@ -72,8 +72,8 @@
 .author__avatar {
   //display: table-cell;
   vertical-align: top;
-  width: 400px;
-  height: 500px;
+  width: 200px;
+  height: 250px;
 
   @include breakpoint($large) {
     display: block;

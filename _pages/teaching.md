@@ -10,12 +10,11 @@ author_profile: false
 
 ## Universidad Carlos III de Madrid
 
-
-* ***Ph.D. courses, TA.***
+ ***Ph.D. courses, TA.***
    * Microeconomics II (Game Theory), 2020.
    * Econometrics III (Microeconometrics), 2019-2021.
 
-* ***Bachelor's courses, TA.***
+***Bachelor's courses, TA.***
    * Microeconomics, 2019, 2021.
    * Applied economics, 2018-2019.
    * Labor economics, 2018.
@@ -33,7 +32,7 @@ author_profile: false
 
 ## Universidad Nacional de Tucumán
 
-* ***Bachelor's courses, TA.***
+***Bachelor's courses, TA.***
    * Economic Problems of Latin America, 2015-2017.
    * Mathematical Analysis, 2013-2014.
 

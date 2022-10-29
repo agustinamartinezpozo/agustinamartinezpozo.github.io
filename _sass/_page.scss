@@ -6,7 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 0em;
+  padding-left: 1em;
   padding-right: 4em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -37,7 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-  padding-left: 4em;
+  padding-left: 2em;
 
   & + .page__meta {
     margin-top: -0.5em;

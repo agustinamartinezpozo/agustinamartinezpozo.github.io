@@ -45,7 +45,7 @@
   }
 
   img {
-    width: 130%;
+    width: 150%;
   }
 }
 
@@ -101,7 +101,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 130%;
+    width: 150%;
     padding-left: 0;
     padding-right: 0;
   }

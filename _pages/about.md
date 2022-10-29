@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to my webpage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+**Welcome to my webpage!**
 
 I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/).
 
@@ -20,8 +21,8 @@ I will participate in the **2022-23 Job Market**.
 <br>
 
 
-***Contact details:*** <br>
-*<a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>*
+***Contact details:*** 
 <address>
  Universidad Carlos III de Madrid, room 15.1.04. <br /> Calle Madrid 126, Getafe (28903). <br /> Madrid, Spain.
-</address>
+</address> <br>
+<a href="mailto:am@eco.uc3m.es">am@eco.uc3m.es</a>

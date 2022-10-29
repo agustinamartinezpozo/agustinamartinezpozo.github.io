@@ -9,7 +9,7 @@ author_profile: false
 {% include base_path %}
 
 
-### Raise your voice! Activism and peer effects in online social networks [(Job Market Paper)](https://alejandraagustinamartinez.github.io/files/abstract.pdf)
+### Raise your voice! Activism and peer effects in online social networks [(Job Market Paper)](https://alejandraagustinamartinez.github.io/files/martinez_jmp.pdf)
 Draft coming soon!
 
 

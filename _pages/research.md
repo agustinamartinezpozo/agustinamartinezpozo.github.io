@@ -1,10 +1,11 @@
 ---
 layout: splash
-class
 title: "Research"
 permalink: /research/
 author_profile: false
 ---
+
+
 {% include base_path %}
 
 

@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 
-***Welcome to my academic webpage!*** <br>
-I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid](http://economics.uc3m.es/) participating in the **2022-23 Job Market**.
+***Welcome to my academic webpage!***
+
+I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/) participating in the **2022-23 Job Market**.
 
 I am an applied microeconomist with research interests in political and development economics. Methodologically, I frame research questions via network analysis and use data from non-traditional sources, such as social media. 
 
-My research focuses on understanding *the social drivers of individual behavior*, especially in the political and public spheres. To accomplish this, I combine theoretical and empirical analysis. In my JMP, I examine peer effects on political activism through social media platforms. 
+My research focuses on understanding *the social drivers of individual behavior*, especially in the political and public spheres. In my JMP, I examine peer effects on political activism through social media platforms. 
+
 <br>
 
 

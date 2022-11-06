@@ -8,10 +8,7 @@ author_profile: false
 {% include base_path %}
 
 You can find my full CV [here](https://alejandraagustinamartinez.github.io/files/martinez_cv.pdf). 
-
 <br>
-
-
 
 ## Short CV 
 
@@ -19,13 +16,15 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
 * Ph.D. in Economics, Universidad Carlos III de Madrid, 2023 (expected).
 * M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2019.
 * B.S. in Economics, Universidad Nacional de Tucumán, 2016.
+<br>
 
 ***Research interests***
 * Applied microeconomics, with a focus on: 
-    * Political economy.
-    * Development economics.
-    * Economics of networks.
-    * Text analysis.
+     * Political economy.
+     * Development economics.
+     * Economics of networks.
+     * Text analysis.
+<br>
 
 ***Honors and Scholarships***
 * Pre-doctoral Scholarships:
@@ -33,6 +32,7 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
     * PIPF and Master Scholarships, Universidad Carlos III de Madrid, 2017-2020. 
 * Scientific Vocations Scholarship, Consejo Interuniversitario Nacional, Argentina, 2015.
 * Silver Medal (Second GPA), Universidad Nacional de Tucumán, Argentina, 2015.
+<br>
 
 ***Computer programming***
 * Python, Stata, Matlab, Latex, Twitter developer account.

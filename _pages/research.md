@@ -20,8 +20,7 @@ Draft coming soon!
 ## Work in progress
 
 ### Hate speech in social media: evidence from the last Brazilian election 
-*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)*
-
+*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* <br>
 Status: ongoing data collection.
 > *In short: How does the arrival of new information regarding social norms affect individuals’ online behavior? We study how the 2018 Brazilian presidential election of Bolsonaro – which was almost a tie - affected online hate speech, particularly against LGBT+ minorities. This project relies on Twitter data for 2018-2021 and applies text analysis techniques to detect hate speech. We follow a Differences in Differences approach to identify the parameter of interest, using the election result as an information shock. The exposure to this shock may be heterogeneous, so we measure its local incidence by considering election results in each electoral district.*
 <br>
@@ -32,8 +31,7 @@ Status: draft in progress.
 <br>
 
 ### The long memory of poverty: the Historical Unsatisfied Basic Needs in Argentina
-*with E. Nicolini.*
-
+*with E. Nicolini.* <br>
 Pre-doctoral work.
 <br>
 

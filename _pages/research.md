@@ -21,13 +21,13 @@ author_profile: false
 ### Hate speech in social media: evidence from Bolsonaro’s election in Brazil
 *with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* <br>
 Status: ongoing data collection.
-> *In short: How does the arrival of new information regarding social norms affect individuals’ online behavior? We study how the 2018 Brazilian presidential election of Bolsonaro – which was almost a tie - affected online hate speech, particularly against LGBT+ minorities. This project relies on Twitter data for 2018-2021 and applies text analysis techniques to detect hate speech. We follow a Differences in Differences approach to identify the parameter of interest, using the election result as an information shock. The exposure to this shock may be heterogeneous, so we measure its local incidence by considering election results in each electoral district.*
+> *In short: How does the arrival of new information regarding social norms affect individuals’ online behavior? We study how the 2018 Brazilian presidential election of Bolsonaro – which was almost a tie – affected online hate speech, particularly against LGBT+ minorities. This project relies on Twitter data for 2018-2021 and applies text analysis techniques to detect hate speech. We follow a Differences in Differences approach to identify the parameter of interest, using the election result as an information shock. The exposure to this shock may be heterogeneous, so we measure its local incidence by considering election results in each electoral district.*
 
 <br>
 
 ### Silence in social networks
 Status: draft in progress.
-> *In short: How do social interactions affect what we publicly say and what we do not? I study a model of social norms, assuming interactions are structured through a network. Individuals choose whether to conform to a social norm - have a speech – or not – stay silent. Social norms may be controversial, and their compliance is observable. Then, individuals may remain silent (i) if no norm aligns with their preferences or (ii) if they do not want to conform to a social norm different from their friends - by social pressure. I investigate how the network structure and distribution of preferences - regarding social norms - affect the equilibrium outcome and under which circumstances the social pressure mechanism arises.*
+> *In short: How do social interactions affect what we publicly say and what we do not? I study a model of social norms, assuming interactions are structured through a network. Individuals choose whether to conform to a social norm – have a speech – or not – stay silent. Social norms may be controversial, and their compliance is observable. Then, individuals may remain silent (i) if no norm aligns with their preferences or (ii) if they do not want to conform to a social norm different from their friends, i.e., by social pressure. I investigate how the network structure and distribution of preferences regarding social norms affect the equilibrium outcome and under which circumstances the social pressure mechanism arises.*
 
 <br>
 

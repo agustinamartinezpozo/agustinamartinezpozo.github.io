@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to my academic webpage!***
 
-I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid (UC3M).](http://economics.uc3m.es/)
+I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madrid.](http://economics.uc3m.es/)
 
 I am an applied microeconomist with research interests in political and development economics. My research focuses on understanding *how social interactions affect individual behavior*, especially in the political and public spheres. 
 

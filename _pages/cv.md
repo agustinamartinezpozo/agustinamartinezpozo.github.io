@@ -17,6 +17,7 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
 * M.A. in Economic Analysis, Universidad Carlos III de Madrid, 2019.
 * B.S. in Economics, Universidad Nacional de Tucumán, 2016.
 <br>
+<br>
 
 ***References***
 * Antonio Cabrales (advisor) <br>
@@ -25,7 +26,8 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
         *<a href="mailto:nlekfuan@eco.uc3m.es">nlekfuan@eco.uc3m.es</a>*
 * Johannes Schneider <br>
         *<a href="mailto:jschneid@eco.uc3m.es">jschneid@eco.uc3m.es</a>*
-<br>        
+<br>
+<br>
 
 ***Research interests***
 * Applied microeconomics, with a focus on: 
@@ -34,6 +36,7 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
      * Economics of networks.
      * Text analysis.
 <br>
+<br>
 
 ***Honors and Scholarships***
 * Pre-doctoral Scholarships:
@@ -41,6 +44,7 @@ You can find my full CV [here](https://alejandraagustinamartinez.github.io/files
     * PIPF and Master Scholarships, Universidad Carlos III de Madrid, 2017-2020. 
 * Scientific Vocations Scholarship, Consejo Interuniversitario Nacional, Argentina, 2015.
 * Silver Medal (Second GPA), Universidad Nacional de Tucumán, Argentina, 2015.
+<br>
 <br>
 
 ***Computer programming***

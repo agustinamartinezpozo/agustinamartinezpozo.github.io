@@ -14,16 +14,9 @@ I am Agustina, a Ph.D. Candidate in Economics at [Universidad Carlos III de Madr
 
 I am an applied microeconomist with research interests in political and development economics. My research focuses on understanding *how social interactions affect individual behavior*, especially in the political and public spheres. 
 
+You can find my CV [here.](https://alejandraagustinamartinez.github.io/files/martinez_cv.pdf)
 
-<br>
 
 
-***References***
-* Antonio Cabrales (advisor) <br>
-        *<a href="mailto:antonio.cabrales@uc3m.es">antonio.cabrales@uc3m.es</a>*
-* Warn N. Lekfuangfu <br>
-        *<a href="mailto:nlekfuan@eco.uc3m.es">nlekfuan@eco.uc3m.es</a>*
-* Johannes Schneider <br>
-        *<a href="mailto:jschneid@eco.uc3m.es">jschneid@eco.uc3m.es</a>*
 
 

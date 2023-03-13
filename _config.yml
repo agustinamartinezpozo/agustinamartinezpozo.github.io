@@ -84,7 +84,7 @@ author:
   name             : "Alejandra Agustina Martínez"
   avatar           : "AM.jpg"
   bio              : "Ph.D. Candidate in Economics at UC3M"
-  location         : "Madrid - Spain"
+  location         : #"Madrid - Spain"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.es/citations?user=e4log-sAAAAJ&hl=es
@@ -97,17 +97,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alejandraagustinamartinez"
+  github           : #"alejandraagustinamartinez"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "alejandra-agustina-martinez"
+  linkedin         : #"alejandra-agustina-martinez"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "Agustina_Mrtnz"

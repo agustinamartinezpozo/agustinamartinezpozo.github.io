@@ -9,7 +9,9 @@ author_profile: false
 {% include base_path %}
 
 
-### Raise your voice! Activism and peer effects in online social networks [(Job Market Paper)](https://alejandraagustinamartinez.github.io/files/martinez_jmp.pdf)
+## Working papers
+
+### Raise your voice! Activism and peer effects in online social networks [(PDF)](https://alejandraagustinamartinez.github.io/files/martinez_jmp.pdf)
 
 > *Abstract:* *Do peers influence individuals' involvement in political activism? To provide a quantitative answer, I study Argentina's abortion rights debate through Twitter - the social media platform. Pro-choice and pro-life activists coexisted online, and the evidence suggests peer groups were not too polarized. I develop a model of strategic interactions in a network - allowing for heterogeneous peer effects. Next, I estimate peer effects and test whether online activism exhibits strategic substitutability or complementarity. I create a novel panel dataset - where links and actions are observable - by combining tweets' and users' information. I provide a reduced-form analysis by proposing a network-based instrumental variable. The results indicate strategic complementarity in online activism, both from aligned and opposing peers. Notably, the evidence suggests homophily in the formation of Twitter's network, but it does not support the hypothesis of an echo-chamber effect.*
 

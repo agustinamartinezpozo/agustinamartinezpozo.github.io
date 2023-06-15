@@ -11,19 +11,21 @@ author_profile: false
 
 ## Working papers
 
-### Raise your voice! Activism and peer effects in online social networks [(PDF)](https://alejandraagustinamartinez.github.io/files/martinez_jmp.pdf)
+### Raise your voice! Activism and peer effects in online social networks [(PDF)](https://alejandraagustinamartinez.github.io/files/raise_your_voice.pdf)
 
-> *Abstract:* *Do peers influence individuals' involvement in political activism? To provide a quantitative answer, I study Argentina's abortion rights debate through Twitter - the social media platform. Pro-choice and pro-life activists coexisted online, and the evidence suggests peer groups were not too polarized. I develop a model of strategic interactions in a network - allowing for heterogeneous peer effects. Next, I estimate peer effects and test whether online activism exhibits strategic substitutability or complementarity. I create a novel panel dataset - where links and actions are observable - by combining tweets' and users' information. I provide a reduced-form analysis by proposing a network-based instrumental variable. The results indicate strategic complementarity in online activism, both from aligned and opposing peers. Notably, the evidence suggests homophily in the formation of Twitter's network, but it does not support the hypothesis of an echo-chamber effect.*
-
+> *Abstract: Do peers influence individuals' involvement in political activism? To provide a quantitative answer, I study Argentina's abortion rights debate through Twitter - the social media platform. Pro-choice and pro-life activists coexisted online, and the evidence suggests peer groups were not too polarized. I develop a model of strategic interactions in a network - allowing for heterogeneous peer effects. Next, I estimate peer effects and test whether online activism exhibits strategic substitutability or complementarity. I create a novel panel dataset - where links and actions are observable - by combining tweets' and users' information. I provide a reduced-form analysis by proposing a network-based instrumental variable. The results indicate strategic complementarity in online activism, both from aligned and opposing peers. Notably, the evidence suggests homophily in the formation of Twitter's network, but it does not support the hypothesis of an echo-chamber effect.*
 <br>
 
+Media: *[uc3nomics (English)](https://uc3nomics.uc3m.es/2023/05/15/peer-effects-political-activism-and-social-media/);
+[Nada es Gratis (Spanish)](https://nadaesgratis.es/admin/activismo-efectos-de-pares-y-redes-sociales).*
+ 
 
 ## Work in progress
 
 ### Hate speech in social media: evidence from Bolsonaro’s election in Brazil
 *with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* <br>
-Status: ongoing data collection.
-> *In short: How does the arrival of new information regarding social norms affect individuals’ online behavior? We study how the 2018 Brazilian presidential election of Bolsonaro – which was almost a tie – affected online hate speech, particularly against LGBT+ minorities. This project relies on Twitter data for 2018-2021 and applies text analysis techniques to detect hate speech. We follow a Differences in Differences approach to identify the parameter of interest, using the election result as an information shock. The exposure to this shock may be heterogeneous, so we measure its local incidence by considering election results in each electoral district.*
+Status: draft in progress.
+> *Abstract: How does newly available information affect individuals' perception of social norms and, consequently, behavior? We examine the impact of Bolsonaro's victory in the 2018 Brazilian presidential election on the prevalence of online hate speech. This project relies on Twitter data from 2017 to 2019 and employs text analysis techniques to detect hate speech in tweets' content. To causally identify the impact of Bolsonaro's election on hate speech through Twitter, we follow a difference-in-differences approach, using the election result as an information shock. We estimate two difference-in-differences models, the traditional and another with a continuous treatment variable. In the latter, the election result at each municipality measures the local incidence of this information shock. Our findings reveal that online hate speech experienced a surge following the elections, particularly in municipalities where Bolsonaro's popularity was relatively low. These results are further supported by individual-level regressions, which show that both extensive and intensive margins of individual hate speech contributed to the overall increase. We interpret these findings within the framework of belief updating, specifically emphasizing the process of revising social norms that govern what is acceptable to say (or not) in public.*
 
 <br>
 

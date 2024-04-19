@@ -7,10 +7,10 @@ author_profile: false
 
 {% include base_path %}
 
-### University of Leicester
+### University of Leicester.
    * Ph.D. courses:
      * Text-as-Data in Economics, 2023.
-       
+
    * Bachelor's courses:
      * Development Economics, 2023.
      * Maths for Economics I, 2023.
@@ -21,7 +21,7 @@ author_profile: false
    * Ph.D. courses:
       * Microeconomics II (Game Theory), 2020.
       * Econometrics III (Microeconometrics), 2019-2021.
-        
+
    * Bachelor's courses:
       * Microeconomics, 2019, 2021.
       * Applied economics, 2018-2019.

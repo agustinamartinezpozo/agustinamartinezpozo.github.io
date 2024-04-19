@@ -7,14 +7,23 @@ author_profile: false
 
 {% include base_path %}
 
+### University of Leicester
 
-## Universidad Carlos III de Madrid
+ #### Ph.D. courses. 
+   * Text-as-Data in Economics, 2023.
 
- ***Ph.D. courses, TA.***
+#### Bachelor's courses.
+   * Development Economics, 2023.
+   * Maths for Economics I, 2023.
+   * Public Economics, 2023.
+
+### Universidad Carlos III de Madrid (as a TA).
+
+ #### Ph.D. courses.
    * Microeconomics II (Game Theory), 2020.
    * Econometrics III (Microeconometrics), 2019-2021.
 
-***Bachelor's courses, TA.***
+#### Bachelor's courses.
    * Microeconomics, 2019, 2021.
    * Applied economics, 2018-2019.
    * Labor economics, 2018.
@@ -30,9 +39,9 @@ author_profile: false
 
 <br>
 
-## Universidad Nacional de Tucumán
+### Universidad Nacional de Tucumán (as a TA).
 
-***Bachelor's courses, TA.***
+#### Bachelor's courses.
    * Economic Problems of Latin America, 2015-2017.
    * Mathematical Analysis, 2013-2014.
 

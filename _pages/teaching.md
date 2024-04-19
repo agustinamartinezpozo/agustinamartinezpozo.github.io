@@ -10,6 +10,7 @@ author_profile: false
 ### University of Leicester
    * Ph.D. courses:
      * Text-as-Data in Economics, 2023.
+       
    * Bachelor's courses:
      * Development Economics, 2023.
      * Maths for Economics I, 2023.
@@ -20,6 +21,7 @@ author_profile: false
    * Ph.D. courses:
       * Microeconomics II (Game Theory), 2020.
       * Econometrics III (Microeconometrics), 2019-2021.
+        
    * Bachelor's courses:
       * Microeconomics, 2019, 2021.
       * Applied economics, 2018-2019.
@@ -33,7 +35,6 @@ author_profile: false
   [*2020 - 1º*](https://alejandraagustinamartinez.github.io/files/2020_1.pdf),
   [*2020 - 2º*](https://alejandraagustinamartinez.github.io/files/2020_2.pdf), 
   [*2021 - 1º*](https://alejandraagustinamartinez.github.io/files/2021_1.pdf).
-
 <br>
 
 ### Universidad Nacional de Tucumán (as a TA).

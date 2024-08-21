@@ -10,7 +10,7 @@ redirect_from:
 
 ***Welcome to my academic webpage!***
 
-I write papers under my full name but prefer *Agustina* otherwise. I am an Assistant Professor (Lecturer) in Economics at the [University of Leicester - School of Business](https://le.ac.uk/school-of-business); I hold a Ph.D. from [Universidad Carlos III de Madrid](http://economics.uc3m.es/).
+I write papers under my full name but prefer *Agustina* otherwise. I am an Assistant Professor (Lecturer) in Economics at the [University of Leicester](https://le.ac.uk/school-of-business); I hold a Ph.D. from [Universidad Carlos III de Madrid](http://economics.uc3m.es/).
 
 I am an applied microeconomist with research interests in Political and Development Economics. My research focuses on understanding how social interactions affect social norms and individual behavior, especially in the political and public spheres. 
 

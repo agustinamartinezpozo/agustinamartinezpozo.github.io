@@ -24,21 +24,19 @@ Media: *[uc3nomics (English)](https://uc3nomics.uc3m.es/peer-effects-political-a
 ## Work in progress
 
 ### Hate in the Tropics: Bolsonaro's Triumph and the Surge of Online Hate Speech in Brazil
-*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* <br>
-Status: draft in progress.
-> *Abstract: How does the advent of political information influence social norms and individual behavior? This paper examines the impact of Bolsonaro's victory in the 2018 Brazilian presidential election on the prevalence of online hate speech. Leveraging Twitter data from 2017 to 2019, we employ Natural Language Processing (NLP) techniques to detect hate speech in tweets. We propose a difference-in-differences framework to identify the effect of Bolsonaro's triumph on hate speech, relying on the election result as an information shock. Our findings reveal a significant increase in hate speech via Twitter after the election, especially in municipalities with relatively low support for Bolsonaro. Similar patterns emerge from our individual-level analysis, suggesting that both the intensive and extensive margins of hate speech contributed to the overall increase. We interpret these results through a belief-updating mechanism, emphasizing the process of revising social norms that determine (un)acceptable public discourse. This interpretation is reinforced by the differential impact of the election based on the targets of hate speech. While we find no differential effect on political hate, we observe a significant effect in homophobia, racism, and sexism - areas in which Bolsonaro's rhetoric may be controversial.*
+*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages) Draft in progress.*
+> *Abstract: How does the advent of political information influence social norms and individual behavior? This paper examines the impact of Bolsonaro's victory in the 2018 Brazilian presidential election on the prevalence of hate speech. We leverage Twitter data from 2017 to 2019 and employ Natural Language Processing (NLP) techniques to detect hate speech in tweets. Relying on the election result as an information shock, we propose a difference-in-differences approach to identify the effect of Bolsonaro's triumph in hate speech. Our findings reveal a significant increase in online hate speech after the election, especially in municipalities where Bolsonaro had lower support. Next, we classify tweets based on the targets of hate speech into five categories and find that the surge in hate speech is mainly driven by homophobia, sexism, and racism - areas in which Bolsonaro's rhetoric was highly controversial. Overall, we interpret these results through a belief-updating mechanism, emphasizing the process of revising social norms that determine (un)acceptable public discourse.*
 
 <br>
 
 ### Silence in social networks
-Status: draft in progress.
+*Draft in progress.*
 > *In short: How do social interactions affect what we publicly say and what we do not? I study a model of social norms, assuming interactions are structured through a network. Individuals choose whether to conform to a social norm – have a speech – or not – stay silent. Social norms may be controversial, and their compliance is observable. Then, individuals may remain silent (i) if no norm aligns with their preferences or (ii) if they do not want to conform to a social norm different from their friends, i.e., by social pressure. I investigate how the network structure and distribution of preferences regarding social norms affect the equilibrium outcome and under which circumstances the social pressure mechanism arises.*
 
 <br>
 
 ### The long memory of poverty: the Historical Unsatisfied Basic Needs in Argentina
-*with E. Nicolini.* <br>
-Pre-doctoral work.
+*with E. Nicolini. Pre-doctoral work.*
 <br>
 
 

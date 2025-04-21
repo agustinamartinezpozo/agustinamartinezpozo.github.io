@@ -9,10 +9,13 @@ author_profile: false
 
 ### University of Leicester.
    * Ph.D. courses (module leader):
-     * Text-as-Data in Economics, 2023.
+     * Text-as-Data in Economics, 2024-2025.
+       
+  * Bachelor's courses (module leader):
+     * Contemporary Issues in Economics, 2024.
 
    * Bachelor's courses (workshop tutor):
-     * Development Economics, 2023.
+     * Development Economics, 2023. 
      * Maths for Economics I, 2023.
      * Public Economics, 2023.
    <br>

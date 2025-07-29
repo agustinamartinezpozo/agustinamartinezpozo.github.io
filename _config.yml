@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandra Agustina Martínez"
+title                    : "Agustina Martínez Pozo"
 title_separator          : "-"
 name                     : &name ""
 description              : &description ""
-url                      : "https://alejandraagustinamartinez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://agustinamartinezpozo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/alejandraagustinamartinez/alejandraagustinamartinez"
+repository               : "github.com/agustinamartinezpozo/agustinamartinezpozo"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : "agustinamrtnz.bsky.social"
+  bluesky          : #"agustinamrtnz.bsky.social"
 
 
 # Reading Files

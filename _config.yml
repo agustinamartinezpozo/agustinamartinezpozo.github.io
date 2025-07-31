@@ -51,7 +51,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : BIG4Eclbwwx9ueR_gpxrtVeHbxJa_0nj-1mi55zCjI0
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -116,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : #"agustinamrtnz.bsky.social"
 
 
 # Reading Files

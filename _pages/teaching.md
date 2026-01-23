@@ -7,25 +7,36 @@ author_profile: false
 
 {% include base_path %}
 
-### University of Leicester.
-   * Ph.D. courses (module leader):
-     * Text-as-Data in Economics, 2024-2025.
-       
-  * Bachelor's courses (module leader):
-     * Contemporary Issues in Economics, 2024.
+## University of Leicester
 
-   * Bachelor's courses (workshop tutor):
+### Text-as-Data in Economics
+   * Ph.D. Workshop, fully designed and instructed by me. 
+   * AY 2023/4, 2024/5, 2025/6.
+
+### Data Analytics in Practice (aka Machine Learning & Economics)    
+   * Third-year undergraduate course, fully designed and instructed by me. 
+   * AY 2025/6.
+
+### Contemporary Issues in Economics  (aka Introduction to Applied Economics)
+   * First-year undergraduate course, fully designed and instructed by P. Schaefer and me. 
+   * AY 2024/5, 2025/6.
+
+   <br>
+
+## Previous teaching experience 
+
+### University of Leicester
+   * Undergraduate courses (workshop tutor):
      * Development Economics, 2023. 
      * Maths for Economics I, 2023.
      * Public Economics, 2023.
-   <br>
-
-### Universidad Carlos III de Madrid.
+       
+### Universidad Carlos III de Madrid
    * Ph.D. courses (TA):
       * Microeconomics II (Game Theory), 2020.
       * Econometrics III (Microeconometrics), 2019-2021.
 
-   * Bachelor's courses (TA):
+   * Undergraduate courses (TA):
       * Microeconomics, 2019, 2021.
       * Applied economics, 2018-2019.
       * Labor economics, 2018.
@@ -40,8 +51,8 @@ author_profile: false
   [*2021 - 1º*](https://agustinamartinezpozo.github.io/files/2021_1.pdf).
 <br>
 
-### Universidad Nacional de Tucumán.
- * Bachelor's courses (TA):
+### Universidad Nacional de Tucumán
+ * Undergraduate courses (TA):
      * Economic Problems of Latin America, 2015-2017.
      * Mathematical Analysis, 2013-2014.
 

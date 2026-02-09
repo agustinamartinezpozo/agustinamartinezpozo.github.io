@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"alejandraagustinamartinez"
+  github           : "agustinamartinezpozo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : #"alejandra-agustina-martinez"
+  linkedin         : "alejandra-agustina-martinez"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "‪@agustinamrtnz.bsky.social‬" # Replace this with you Bluesky username
 
 
 # Reading Files

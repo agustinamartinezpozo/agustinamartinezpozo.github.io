@@ -11,8 +11,8 @@ author_profile: false
 
 ## Working papers
 
-### Raise your voice! Activism and peer effects in online social networks 
-*New draft coming soon!* [(RedNIE Working Paper)](https://rednie.eco.unc.edu.ar/files/DT/277.pdf)
+### Raise your voice! Activism and peer effects in online social networks [(RedNIE Working Paper)](https://rednie.eco.unc.edu.ar/files/DT/277.pdf)
+*New draft coming soon!* 
 
 > *Abstract: Do peers influence individuals' involvement in political activism? Are peers like or opposite-minded? Does this distinction matter for understanding peer influence in activism? To provide quantitative answers to these questions, I study Argentina's abortion rights debate through Twitter. Pro-choice and pro-life activists coexisted online, and the evidence suggests peer groups were not fully polarized. I propose a model of heterogeneous peer effects in a network and empirically test the strategic nature of activism. The results indicate that online activism exhibits strategic complementarity from like and opposite-minded peers. Notably, the evidence suggests strong homophily in the formation of Twitter's network, but it does not fully support the hypothesis of an echo-chamber effect. While some individuals are segregated in online chambers, others are not. Moreover, peer estimates do not vary across these groups, emphasizing the absence of an echo effect.*
 
@@ -20,8 +20,8 @@ Media: *[uc3nomics (English)](https://uc3nomics.uc3m.es/peer-effects-political-a
 [Nada es Gratis (Spanish)](https://nadaesgratis.es/admin/activismo-efectos-de-pares-y-redes-sociales).*
  <br>
  
-### Hate in the Tropics: Political Leaders and the Social Acceptability of Online Hate Speech 
-*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* [(RedNIE Working Paper)](https://rednie.eco.unc.edu.ar/files/DT/391.pdf)
+### Hate in the Tropics: Political Leaders and the Social Acceptability of Online Hate Speech [(RedNIE Working Paper)](https://rednie.eco.unc.edu.ar/files/DT/391.pdf)
+*with [D. Marino Fages.](https://sites.google.com/view/diegomarinofages)* 
 
 > *Abstract: How does the advent of political information influence social norms? This paper examines the impact of Jair Bolsonaro's victory in the 2018 Brazilian presidential election on the prevalence of hate speech. We apply Natural Language Processing techniques to detect hate speech in over 37.6 million tweets, and leverage the electoral surprise of Bolsonaro's victory in a difference-in-differences design. Our findings reveal a substantial increase in online hate speech following the election, particularly in municipalities where Bolsonaro's vote share was lower—where his local and national support diverged most. The increase is primarily driven by the extensive margin of hate speech and is concentrated in homophobic and sexist content—areas in which Bolsonaro's rhetoric was highly controversial. Overall, these patterns suggest that the election outcome reshaped perceptions of the social acceptability of expressing hate.*
 <br>

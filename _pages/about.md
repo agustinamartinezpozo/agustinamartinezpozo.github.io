@@ -14,7 +14,7 @@ I am an Assistant Professor (Lecturer) in Economics at the [University of Leices
 
 I am an applied microeconomist with research interests in Political Economy, the Economics of Social Media, and Social Networks. 
 
-You can find my CV [here](https://agustinamartinezpozo.github.io/files/martinez_cv.pdf) and contact me at 
+You can find my CV [here](https://agustinamartinezpozo.github.io/files/martinezpozo_cv.pdf) and contact me at 
 *<a href="mailto:a.martinez@leicester.ac.uk
 ">a.martinez@leicester.ac.uk</a>*.
 
